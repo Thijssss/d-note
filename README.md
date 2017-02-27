@@ -23,6 +23,9 @@ I have made several changes to securely run this as a company service:
 
 See the Wiki for more information. I have put up some information which should help you get your copy up and running.
 
+27-02-2017 I have seen activity in the original project, that's good news! I want to contribute with certain commits soon.
+           I do probably have some plans on my own so i'll keep this fork alive for now.
+
  With kind regards,
      Thijssss
 
