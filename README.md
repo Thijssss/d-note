@@ -19,8 +19,9 @@ I have made several changes to securely run this as a company service:
  - Added ASCII input validation on hashcash input
  - Added crontab information to delete old notes (30 days)
  - Added input validation on URL to avoid Apache 500 errors caused by padding problem with invalid, too long or short URLs
+ - Added rel="noreferrer" to all links to avoid browser referrer header leakage
 
-See the Wiki for more information.
+See the Wiki for more information. I have put up some information which should help you get your copy up and running.
 
  With kind regards,
      Thijssss
